@@ -9,3 +9,5 @@ AT Commands and serial communications could be very slow, and slow down the comp
 
 Currently I'm porting AT Commands (the known ones...) and code from the SIM900 library to the WiFi ESP8266 module. Please, stay tunned if you reach this page!Code will be available soon, at least to start testing.
 
+
+By Alfonso Abella.
