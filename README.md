@@ -18,6 +18,11 @@ Pinout
 
     TODO
 
+Wiki
+------
+
+[GitHub Wiki] https://github.com/aabella/ESP8266-Arduino-library/wiki
+
 Interesting info about the module
 ----------------------------------
 
