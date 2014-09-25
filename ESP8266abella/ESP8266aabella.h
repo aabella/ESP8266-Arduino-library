@@ -8,7 +8,14 @@
 #ifndef ESP8266AABELLA_H_
 #define ESP8266AABELLA_H_
 
+#if defined(ENERGIA) // LaunchPad, FraunchPad and StellarPad specific
+#include "Energia.h"
+#define  prog_char  const char
+#define  prog_uchar  const unsigned char
+#elif defined(ARDUINO) // Arduino 1.0x and 1.5x specific
+#include "Arduino.h"
 #include <avr/pgmspace.h>
+#endif
 
 #define RECEPBUFFERSIZE 120  // Bytes received from serial.
 #define RECEPPUBLICBUFFERSIZE 100  // Max MSG size. If smaller, more than one at a time
