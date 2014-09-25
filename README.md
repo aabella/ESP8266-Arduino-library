@@ -13,5 +13,16 @@ The code is Object oriented and developed as efficient in memory usage as I can 
 
 Currently I'm porting AT Commands (the known ones...) and code from the SIM900 library to the WiFi ESP8266 module. Please, stay tunned if you reach this page! Code will be available soon, at least to start testing =)
 
+Pinout
+------
+
+    TODO
+
+Interesting info about the module
+----------------------------------
+
+* [ElectroDragon] (http://www.electrodragon.com/w/Wi07c)
+* [NURDspace] (https://nurdspace.nl/ESP8266)
+* [Forum] (http://www.esp8266.com/)
 
 By Alfonso Abella.
